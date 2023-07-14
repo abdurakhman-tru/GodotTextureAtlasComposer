@@ -1,6 +1,6 @@
 # TextureAtlasComposer
 
-![Showcase image 1](https://github.com/abdurakhman-tru/GodotTextureAtlasComposer/readme/img1.png) ![Showcase image 1](https://github.com/abdurakhman-tru/GodotTextureAtlasComposer/readme/img2.png)
+![Showcase image 1](https://github.com/abdurakhman-tru/GodotTextureAtlasComposer/blob/main/readme/img1.png) ![Showcase image 1](https://github.com/abdurakhman-tru/GodotTextureAtlasComposer/blob/main/readme/img2.png)
 
 The **TextureAtlasComposer** program is a simple and effective tool designed to automate and simplify the layout of texture atlases based on source materials. **TextureAtlasComposer** has a mode of automatic selection of source materials, as well as tools for manually adding and editing source material
 
